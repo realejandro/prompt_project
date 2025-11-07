@@ -1,5 +1,3 @@
-# **Text Summarization REST API using OpenAI API**
-
 ## **Project Overview**
 
 In this project, I built a REST API that accepts text content, calls the OpenAI API to summarize the content, and returns the summarized version in bullet points. This project provided a hands-on learning experience in creating a **Large Language Model (LLM)-based application**, as well as integrating third-party APIs for natural language processing (NLP) tasks.
